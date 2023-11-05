@@ -1,0 +1,102 @@
+.Left-Header-container {
+  margin-top: 250px;
+  margin-left: 45px;
+  padding-bottom: -45px;
+  width: 400px;
+  height: 800px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.profile-name {
+  color: #0b0909;
+  font-family: Raleway;
+  font-size: 28.42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35.525px; /* 125% */
+  padding-left: 83px;
+  padding-top: 15px;
+  padding-right: 82px;
+}
+.Role {
+  color: rgba(11, 9, 9, 0.5);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 250% */
+  padding-left: 124.5px;
+  padding-right: 123.5px;
+}
+.profile-image {
+  height: 200px;
+  width: 200px;
+  padding-left: 82px;
+  padding-right: 81px;
+  padding-top: 20px;
+}
+.social-media-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 9.095px;
+  padding-left: 123px;
+  padding-right: 82px;
+}
+.icon {
+  display: flex;
+  width: 19.845px;
+  padding: 2.481px 1.654px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9px;
+
+  border-radius: 8.269px;
+  background: #f2f7fc;
+}
+.contact-card {
+  width: 350px;
+  height: 300px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #f2f5f9;
+  margin-left: 25px;
+}
+.group-card {
+  width: 256px;
+  height: 63px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 19px;
+}
+.group-items {
+  width: 101px;
+  height: 45px;
+  padding-left: 15px;
+}
+.item-heading {
+  margin-bottom: -5px;
+  color: rgba(26, 16, 3, 0.5);
+  font-family: Raleway;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 0px; /* 0% */
+}
+.line {
+  width: 256px;
+  height: 1px;
+}
+.download-resume {
+  display: inline-flex;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 20px;
+  background: linear-gradient(91deg, #ff9c1a 7.92%, #e80505 108.2%);
+  margin-left: 65px;
+}

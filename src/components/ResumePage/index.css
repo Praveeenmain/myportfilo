@@ -1,0 +1,716 @@
+.resume-page {
+  background-color: #f2f5f9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.resume-page .div {
+  background-color: #f2f5f9;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.resume-page .header {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: 104px;
+  justify-content: space-between;
+  left: 100px;
+  padding: 44px 0px;
+  position: absolute;
+  top: 18px;
+  width: 1240px;
+}
+
+.resume-page .logo {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  margin-bottom: -33px;
+  margin-top: -33px;
+  padding: 20px 0px;
+  position: relative;
+}
+
+.resume-page .beatrice-wambui {
+  flex: 0 0 auto;
+  margin-right: -0.44px;
+  position: relative;
+}
+
+.resume-page .ph-moon {
+  height: 64px;
+  margin-bottom: -24px;
+  margin-right: -4px;
+  margin-top: -24px;
+  position: relative;
+  width: 64px;
+}
+
+.resume-page .profile-details {
+  height: 804px;
+  left: 100px;
+  position: absolute;
+  top: 170px;
+  width: 400px;
+}
+
+.resume-page .resume-section {
+  height: 720px;
+  left: 510px;
+  position: absolute;
+  top: 264px;
+  width: 840px;
+}
+
+.resume-page .overlap-group {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 0px #00000040;
+  height: 700px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 820px;
+}
+
+.resume-page .resume-heading {
+  align-items: center;
+  display: inline-flex;
+  gap: 32px;
+  left: 72px;
+  position: absolute;
+  top: 18px;
+}
+
+.resume-page .resume {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 0px;
+  position: relative;
+}
+
+.resume-page .text-wrapper {
+  color: #0b0909;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .line {
+  height: 4px;
+  margin-right: -1px;
+  position: relative;
+  width: 254px;
+}
+
+.resume-page .education-experience {
+  height: 323px;
+  left: 72px;
+  position: absolute;
+  top: 91px;
+  width: 637px;
+}
+
+.resume-page .education-experience-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 160px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 564px;
+}
+
+.resume-page .div-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9.25px;
+  margin-bottom: -0.77px;
+  position: relative;
+}
+
+.resume-page .img {
+  height: 27.74px;
+  position: relative;
+  width: 27.74px;
+}
+
+.resume-page .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 27.7px;
+  font-weight: 500;
+  letter-spacing: 0.69px;
+  line-height: 46.2px;
+  margin-top: -1.16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .moringa-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+  width: 289px;
+}
+
+.resume-page .rectangle {
+  background-color: #ffe3bf;
+  border-radius: 9.25px;
+  height: 115.57px;
+  position: relative;
+  width: 288.93px;
+}
+
+.resume-page .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 9.25px;
+  left: 0;
+  padding: 9.25px;
+  position: absolute;
+  top: 15px;
+}
+
+.resume-page .text-wrapper-3 {
+  color: #1a100380;
+  font-family: "Raleway", Helvetica;
+  font-size: 13.9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .text-wrapper-4 {
+  color: #000000;
+  font-family: "Raleway", Helvetica;
+  font-size: 13.9px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .text-wrapper-5 {
+  color: #000000;
+  font-family: "Raleway", Helvetica;
+  font-size: 13.9px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .masinde-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 289px;
+}
+
+.resume-page .rectangle-2 {
+  background-color: #ffeed9;
+  border-radius: 9.25px;
+  height: 115.57px;
+  position: relative;
+  width: 288.93px;
+}
+
+.resume-page .technical-mentor {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 116px;
+  left: 348px;
+  position: absolute;
+  top: 68px;
+  width: 289px;
+}
+
+.resume-page .village-nation {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 116px;
+  left: 348px;
+  position: absolute;
+  top: 208px;
+  width: 289px;
+}
+
+.resume-page .skills-section {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 450px;
+}
+
+.resume-page .work-skills-card {
+  background-color: #f8fbfb;
+  border-radius: 0px 0px 8px 8px;
+  height: 250px;
+  position: relative;
+  width: 820px;
+}
+
+.resume-page .work-soft-skills {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .work-skills-heading-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 160px;
+  justify-content: space-around;
+  position: relative;
+  width: 492px;
+}
+
+.resume-page .work-skills-heading {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9.25px;
+  position: relative;
+}
+
+.resume-page .skills {
+  height: 167px;
+  position: relative;
+  width: 619px;
+}
+
+.resume-page .work-expertise {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .text-wrapper-6 {
+  color: #000000;
+  font-family: "Raleway", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .div-wrapper {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 95px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .work-expertise-2 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 191px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .work-expertise-3 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 348px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .work-expertise-4 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 492px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.resume-page .work-expertise-5 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 348px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 51px;
+}
+
+.resume-page .work-expertise-6 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 548px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 51px;
+}
+
+.resume-page .work-expertise-7 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 348px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 102px;
+}
+
+.resume-page .work-expertise-8 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 437px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 102px;
+}
+
+.resume-page .work-expertise-9 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 45px;
+}
+
+.resume-page .work-expertise-10 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 4px 8px;
+  position: absolute;
+  top: 90px;
+}
+
+.resume-page .work-expertise-11 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 4px 8px;
+  position: absolute;
+  top: 135px;
+}
+
+.resume-page .work-expertise-12 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 95px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 135px;
+}
+
+.resume-page .work-expertise-13 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 190px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 135px;
+}
+
+.resume-page .work-expertise-14 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 95px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 90px;
+}
+
+.resume-page .work-expertise-15 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 191px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 90px;
+}
+
+.resume-page .work-expertise-16 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 76px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 45px;
+}
+
+.resume-page .work-expertise-17 {
+  align-items: center;
+  background-color: #e1e8ef;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 191px;
+  padding: 4px 8px;
+  position: absolute;
+  top: 45px;
+}
+
+.resume-page .soft-skills-heading {
+  align-items: center;
+  display: flex;
+  gap: 9.25px;
+  justify-content: space-around;
+  left: 348px;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.resume-page .nav-bar {
+  align-items: center;
+  box-shadow: 0px 0px 0px #00000040;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 839px;
+  position: absolute;
+  top: 164px;
+}
+
+.resume-page .nav-card {
+  background-color: #f2f7fc;
+  border-radius: 20px;
+  box-shadow: 0px 0px 4px #00000040;
+  height: 100px;
+  position: relative;
+  width: 503px;
+}
+
+.resume-page .nav-cards {
+  align-items: center;
+  display: inline-flex;
+  gap: 40px;
+  justify-content: center;
+  left: 31px;
+  position: absolute;
+  top: 10px;
+}
+
+.resume-page .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.resume-page .div-5 {
+  background-color: #e1e7ef;
+  border-radius: 20px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.resume-page .home {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 23px;
+  position: absolute;
+  top: 16px;
+}
+
+.resume-page .img-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.resume-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Raleway", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .rectangle-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 156, 26) 0%,
+    rgb(232, 5, 5) 100%
+  );
+  border-radius: 20px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.resume-page .resume-2 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 17px;
+  position: absolute;
+  top: 13px;
+}
+
+.resume-page .text-wrapper-8 {
+  color: #f2f7fc;
+  font-family: "Raleway", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resume-page .work {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 25px;
+  position: absolute;
+  top: 14px;
+}
+
+.resume-page .contact {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 17px;
+  position: absolute;
+  top: 16px;
+}
